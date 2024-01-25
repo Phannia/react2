@@ -1,3 +1,5 @@
+El repositorio se sube a Github de manera tardía ya que el desafío solicitaba enviar archivo zip por LMS
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
